@@ -1,0 +1,18 @@
+image:512*512
+total pixel to be inpainted : 34656
+
+    Algorithm : Edge-Connect
+    Time used : 18.783689s
+    psnr : 28.305864dB, ssim : 0.908086
+
+    Algorithm : Partial-Conv
+    Time used : 14.998346s
+    psnr : 27.835258dB, ssim : 0.902038
+
+    Algorithm : TELEA
+    Time used : 0.252212s
+    psnr : 28.489487dB, ssim : 0.921965
+
+    Algorithm : Navier-Stokes
+    Time used : 0.247034s
+    psnr : 28.428635dB, ssim : 0.921783
